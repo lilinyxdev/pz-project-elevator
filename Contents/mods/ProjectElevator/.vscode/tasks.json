@@ -1,0 +1,17 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Copy",
+            "type": "shell",
+            "command": "Copy-Item -Path \"H:\\Projects\\PZMods\\pz-project-elevator\\Contents\\mods\\ProjectElevator\\media\" -Destination \"C:\\Users\\bobur\\Zomboid\\mods\\ProjectElevator-ln\" -Recurse -Force",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

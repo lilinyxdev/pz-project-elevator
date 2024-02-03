@@ -1,5 +1,9 @@
-name= ProjectElevator
+name= Elevators! (Renewed)
 poster=
-id=ProjectElevator
-description= makes the elevators in the world space work!
+id=ProjectElevator-ln
+description= (Based off Jimorie's original mod) 
+description= <LINE>
+description= Elevators in the world are now functional! To use them, simply right click and choose one of the floors available under the Use Elevator context menu.
+description= <LINE>
+description= Elevators require electricity to function. After the utility shut-off, you'll need to provide power to at least one elevator on a single floor. Elevators can now also be built if you have high enough Electrical and Metalworking.
 url=
